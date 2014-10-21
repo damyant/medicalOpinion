@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="543335173">
+    <data-source source="LOCAL" name="medicalOpinion dev" uuid="b3455c9a-0768-4230-b27a-a74ce4a982b8">
+      <driver-ref>mysql</driver-ref>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/medicalOpinion?zeroDateTimeBehavior=convertToNull&amp;useUnicode=true&amp;autoreconnect=true</jdbc-url>
+      <user-name>root</user-name>
+      <user-password>dfd8dfc5dfc5dfdedf9bdf98df99</user-password>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+
